@@ -5,8 +5,8 @@ classes: wide
 permalink: /dreizehn
 
 gallery: 
-  - url: /assets/images/weihnachtsmaus.png
-    image_path: /assets/images/weihnachtsmaus.png
+  - url: /assets/images/Weihnachtsmaus.png
+    image_path: /assets/images/Weihnachtsmaus.png
 
 ---
 
