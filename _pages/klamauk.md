@@ -4,8 +4,15 @@ layout: splash
 classes: wide
 permalink: /vierzehn
 
-Mittelwert und Streuung
+gallery: 
+  - url: /assets/images/nikoleo.jpg
+    image_path: /assets/images/nikoleo.jpg
 
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include gallery caption="Mittelwert und Streuung
 Ein Mensch, der von Statistik hört,
 denkt dabei nur an Mittelwert.
 Er glaubt nicht dran und ist dagegen,
@@ -26,12 +33,5 @@ Doch wär er klug und nähme Schrot
 - dies sei gesagt ihn zu belehren -
 er würde seine Chancen mehren:
 Der Schuß geht ab, die Ente stürzt,
-weil Streuung ihr das Leben kürzt! 
-
----
-
-{% include feature_row id="intro" type="center" %}
-
-{% include gallery %}
-
+weil Streuung ihr das Leben kürzt! " %}
 
