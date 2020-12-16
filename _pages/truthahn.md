@@ -12,4 +12,4 @@ gallery:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="Jetzt brauch ich nur noch den Schlüssel zum Schanpschschränksche" %}
+{% include gallery caption="Claudia hat uns dieses schöne Rezept übermittelt. Jetzt brauch ich nur noch den Schlüssel zum Schanpschschränksche" %}
