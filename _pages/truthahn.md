@@ -2,14 +2,14 @@
 title: ""
 layout: splash
 classes: wide
-permalink: /sechste
+permalink: /fuenfzehn
 
 gallery: 
-  - url: /assets/images/truthahn.jpg
-    image_path: /assets/images/truthahn.jpg
+  - url: /assets/images/Gebratener_Truthahn_mit_Whisky.png
+    image_path: /assets/images/Gebratener_Truthahn_mit_Whisky.png
 
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="Wusstet ihr schon, dass die Niko-Leo den Weihnachtsmann ab dem 6. Dezember tatkräftig unterstützt?" %}
+{% include gallery caption="Jetzt brauch ich nur noch den Schlüssel zum Schanpschschränksche" %}
