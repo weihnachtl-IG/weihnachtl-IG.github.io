@@ -16,4 +16,4 @@ Ellis Schnapschuss vom Rathausmarkt :)
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="Schalalalaaalalalallaaa" %}
+{% include gallery caption="Ein echter Schnapschuss den Elli auf dem Rathausmarkt gemacht hat :)" %}
