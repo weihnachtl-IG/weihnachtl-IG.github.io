@@ -5,8 +5,8 @@ classes: wide
 permalink: /zweiundzwanzig
 
 intro:
-  excerp: 'Welcher Kartentyp bist du? Finde es heraus!"
-
+  excerp: 'Welcher Kartentyp bist du? Finde es heraus!'
+  
 gallery: 
   - url: /assets/images/all.gif
     image_path: /assets/images/all.gif
