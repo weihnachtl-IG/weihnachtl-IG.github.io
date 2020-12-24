@@ -4,6 +4,7 @@ layout: splash
 classes: wide
 permalink: /zweiundzwanzig
 
+Welcher Kartentyp bist du!
 gallery: 
   - url: /assets/images/all.gif
     image_path: /assets/images/all.gif
