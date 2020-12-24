@@ -19,4 +19,6 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="Der Geodät ist auf Anfragen vom Weihnachtsmann nach der passenden Route mit allen Projektionen gewappnet eine Richtungstreue zu finden. Oder Flächentreu oder Treutreu. Was eure Wahl für euch und die Feiertage bedeutet könnt ihr anschließend der Übersicht entnehmen." %}
+{% include gallery caption="Der Geodät ist auf Anfragen vom Weihnachtsmann nach der passenden Route mit allen Projektionen gewappnet eine Richtungstreue zu finden. Oder Flächentreu oder Treutreu. " %}
+
+Weitere Projektionen gibt es über diesen Link: https://www.jasondavies.com/maps/transition/
