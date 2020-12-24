@@ -12,4 +12,4 @@ gallery:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="" %}
+{% include gallery caption="Was für eine herzliche Wichteltruppe!" %}
