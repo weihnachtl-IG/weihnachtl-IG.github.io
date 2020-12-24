@@ -12,5 +12,6 @@ gallery:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="Es ist Heiligabend. Es ist das letzte Türchen und wir wünschen eine besinnliche Zeit. Wenn ihr mögt können wir noch gemeinsam an etwas zusammen <a href="https://excalidraw.com/#room=a441ec610fc2079764d3,zskOh_oelvflFJRRwNhnQA">malen</a> :)" %}
+{% include gallery caption="Es ist Heiligabend. Es ist das letzte Türchen und wir wünschen eine besinnliche Zeit." %}
 
+Wenn ihr mögt können wir noch gemeinsam über die Feiertage hinweg an etwas zusammen malen, folgt dafür diesem <a href="https://excalidraw.com/#room=a441ec610fc2079764d3,zskOh_oelvflFJRRwNhnQA">LINK</a> :)
