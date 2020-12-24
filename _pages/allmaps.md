@@ -14,11 +14,9 @@ gallery:
     alt: "Tallo-San"
     title: "Tallo-San Hai"
 intro: 
-  - excerpt: 'Kartoffel & Kawaii mit Yuria Konda und Finn Linzer. Die
-    preisgekrönte, verblüffend fabelhafte, grenzenlos fantastische Party für
-    sie, ihn und es.'
+  - excerpt: 'Der Weihnachtsmann ist hoffentlich Geodät oder hat dich an seiner Seite zur Navigation. Wüsstest du wo lang? Welcher Kartentyp bist du? Schau auf der linken Seite deine Lieblingskarte aus und finde es auf der Rechts dargestellten Übersicht heraus!'
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="Falls ihr hier nicht auftauchen wollt bitte bei uns melden." %}
+{% include gallery caption="Der Geodät ist auf Anfragen vom Weihnachtsmann nach der passenden Route mit allen Projektionen gewappnet eine Richtungstreue zu finden. Oder Flächentreu oder Treutreu. Was eure Wahl für euch und die Feiertage bedeutet könnt ihr anschließend der Übersicht entnehmen." %}
