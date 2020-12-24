@@ -5,7 +5,7 @@ classes: wide
 permalink: /zweiundzwanzig
 
 intro:
-  excerp: 'Der Weihnachtsmann ist hoffentlich Geodät oder hat dich an seiner Seite zur Navigation. Wüsstest du wo lang? Welcher Kartentyp bist du? Schau auf der linken Seite deine Lieblingskarte aus und finde es auf der Rechts dargestellten Übersicht heraus!'
+  excerp: 'asdf'
   
 gallery: 
   - url: /assets/images/all.gif
@@ -19,6 +19,6 @@ gallery:
 
 {% include intro id="intro" type="center" %}
 
-{% include gallery caption="Der Geodät ist auf Anfragen vom Weihnachtsmann nach der passenden Route mit allen Projektionen gewappnet eine Richtungstreue zu finden. Oder Flächentreu oder Treutreu. Was eure Wahl für euch und die Feiertage bedeutet könnt ihr anschließend der Übersicht entnehmen." %}
+{% include gallery caption="geowas" %}
 
 https://www.jasondavies.com/maps/transition/
