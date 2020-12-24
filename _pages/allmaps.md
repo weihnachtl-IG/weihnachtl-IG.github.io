@@ -10,7 +10,6 @@ gallery:
   - url: /assets/images/map_projections.png
     image_path: /assets/images/map_projections.png
 
-https://www.jasondavies.com/maps/transition/
 
 ---
 
