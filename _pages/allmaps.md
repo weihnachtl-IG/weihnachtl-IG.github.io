@@ -5,7 +5,7 @@ classes: wide
 permalink: /zweiundzwanzig
 
 intro:
-  excerp: 'Welcher Kartentyp bist du? Finde es heraus!'
+  excerp: 'Der Weihnachtsmann ist hoffentlich Geodät oder hat dich an seiner Seite zur Navigation. Wüsstest du wo lang? Welcher Kartentyp bist du? Schau auf der linken Seite deine Lieblingskarte aus und finde es auf der Rechts dargestellten Übersicht heraus!'
   
 gallery: 
   - url: /assets/images/all.gif
