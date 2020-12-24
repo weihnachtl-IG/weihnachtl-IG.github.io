@@ -21,4 +21,4 @@ intro:
 
 {% include gallery caption="Der Geodät ist auf Anfragen vom Weihnachtsmann nach der passenden Route mit allen Projektionen gewappnet eine Richtungstreue zu finden. Oder Flächentreu oder Treutreu. " %}
 
-Weitere Projektionen gibt es über diesen Link: https://www.jasondavies.com/maps/transition/
+Weitere Projektionen gibt es über diesen Link: <a href="https://www.jasondavies.com/maps/transition/">LINK</a> 
